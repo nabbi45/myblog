@@ -1,0 +1,4 @@
+blank for a reason.
+This is cdn static for live server ex. AWS S3. all the static staticfiles
+will live here like image,css and javascript. ALso thihngs from local static folder
+can be loaded here.
